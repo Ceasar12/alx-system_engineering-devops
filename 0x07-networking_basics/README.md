@@ -1,1 +1,1 @@
-UDP and TCP
+TCP and UDP ports
